@@ -1,0 +1,10 @@
+D:\ImageConversion3\ClassLibraryWorkImage\bin\Debug\ClassLibraryWorkImage.dll
+D:\ImageConversion3\ClassLibraryWorkImage\bin\Debug\ClassLibraryWorkImage.pdb
+D:\ImageConversion3\ClassLibraryWorkImage\obj\Debug\EditorImage.csprojAssemblyReference.cache
+D:\ImageConversion3\ClassLibraryWorkImage\obj\Debug\ClassLibraryWorkImage.dll
+D:\ImageConversion3\ClassLibraryWorkImage\obj\Debug\ClassLibraryWorkImage.pdb
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\ClassLibraryWorkImage\bin\Debug\ClassLibraryWorkImage.dll
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\ClassLibraryWorkImage\bin\Debug\ClassLibraryWorkImage.pdb
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\ClassLibraryWorkImage\obj\Debug\EditorImage.csprojAssemblyReference.cache
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\ClassLibraryWorkImage\obj\Debug\ClassLibraryWorkImage.dll
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\ClassLibraryWorkImage\obj\Debug\ClassLibraryWorkImage.pdb

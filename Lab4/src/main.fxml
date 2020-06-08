@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="439.0" prefWidth="557.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fx:id="originalImageView" fitHeight="256.0" fitWidth="256.0" layoutX="14.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="resultImageView" fitHeight="256.0" fitWidth="256.0" layoutX="286.0" layoutY="42.0" pickOnBounds="true" preserveRatio="true" />
+      <Label alignment="CENTER" contentDisplay="RIGHT" layoutX="14.0" layoutY="14.0" prefWidth="256.0" text="Оригинальное изображение" textAlignment="CENTER" />
+      <Label alignment="CENTER" contentDisplay="RIGHT" layoutX="286.0" layoutY="14.0" prefWidth="256.0" text="Изображение после преобразований" textAlignment="CENTER" />
+      <Button layoutX="385.0" layoutY="398.0" mnemonicParsing="false" onMouseClicked="#openImage" prefHeight="25.0" prefWidth="157.0" text="Открыть изображение" />
+      <RadioButton fx:id="fftRadioButton" layoutX="14.0" layoutY="320.0" mnemonicParsing="false" onMouseClicked="#performConversion" text="Прямое преобразование Фурье" />
+      <RadioButton fx:id="reverseFftRadioButton" layoutX="14.0" layoutY="350.0" mnemonicParsing="false" onMouseClicked="#performConversion" text="Обратное преобразование Фурье" />
+      <RadioButton fx:id="battervortRadioButton" layoutX="14.0" layoutY="380.0" mnemonicParsing="false" onMouseClicked="#performConversion" prefHeight="17.0" prefWidth="246.0" text="Фильтр Баттерворта первого порядка" />
+      <RadioButton fx:id="gaussianRadioButton" layoutX="14.0" layoutY="410.0" mnemonicParsing="false" onMouseClicked="#performConversion" prefHeight="17.0" prefWidth="191.0" text="Фильтр Гаусса" />
+   </children>
+</Pane>

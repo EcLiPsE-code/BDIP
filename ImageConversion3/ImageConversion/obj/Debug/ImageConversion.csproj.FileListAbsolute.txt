@@ -1,0 +1,6 @@
+F:\ОЦОИ\ImageConversion\ImageConversion\bin\Debug\ImageConversion.dll
+F:\ОЦОИ\ImageConversion\ImageConversion\bin\Debug\ImageConversion.pdb
+F:\ОЦОИ\ImageConversion\ImageConversion\obj\Debug\ImageConversion.csprojAssemblyReference.cache
+F:\ОЦОИ\ImageConversion\ImageConversion\obj\Debug\ImageConversion.csproj.CoreCompileInputs.cache
+F:\ОЦОИ\ImageConversion\ImageConversion\obj\Debug\ImageConversion.dll
+F:\ОЦОИ\ImageConversion\ImageConversion\obj\Debug\ImageConversion.pdb

@@ -1,0 +1,202 @@
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe.config
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.pdb
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csprojAssemblyReference.cache
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Form1.resources
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Properties.Resources.resources
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.GenerateResource.cache
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.CoreCompileInputs.cache
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.exe
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.pdb
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageCL.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageCL.pdb
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.CopyComplete
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe.config
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.pdb
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageCL.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\ProccesingImageCL.pdb
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csprojAssemblyReference.cache
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Form1.resources
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Properties.Resources.resources
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.GenerateResource.cache
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.CoreCompileInputs.cache
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.CopyComplete
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.exe
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.pdb
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.AWT.WinForms.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.Runtime.dll
+D:\GSTU\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.Runtime.dll
+D:\Other\GSTU\semester_5\BDIP\Lab_1\ProccesingImageWFA\bin\Debug\IKVM.Runtime.JNI.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe.config
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.pdb
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.AWT.WinForms.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Localedata.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Tools.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.Runtime.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\IKVM.Runtime.JNI.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\ProccesingImageCL.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\bin\Debug\ProccesingImageCL.pdb
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csprojAssemblyReference.cache
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Form1.resources
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Properties.Resources.resources
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.GenerateResource.cache
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.CopyComplete
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.exe
+E:\Other\GSTU\semester_5\BDIP\Lab_3\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.pdb
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe.config
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.pdb
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.AWT.WinForms.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Localedata.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Tools.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.Runtime.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.Runtime.JNI.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageCL.dll
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageCL.pdb
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csprojAssemblyReference.cache
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Form1.resources
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Properties.Resources.resources
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.GenerateResource.cache
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.CopyComplete
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.exe
+E:\Other\GSTU\semester_5\BDIP\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.pdb
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe.config
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.exe
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageWFA.pdb
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.Runtime.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageCL.dll
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\bin\Debug\ProccesingImageCL.pdb
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csprojAssemblyReference.cache
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Form1.resources
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.Properties.Resources.resources
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.GenerateResource.cache
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.csproj.CopyComplete
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.exe
+D:\Learning\Basics of Digital Image Processing\Lab_2\ProccesingImageWFA\obj\Debug\ProccesingImageWFA.pdb

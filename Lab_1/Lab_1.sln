@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProccesingImageCL", "ProccesingImageCL\ProccesingImageCL.csproj", "{4E8CAB23-B047-4B80-AB48-318A932E39B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProccesingImageWFA", "ProccesingImageWFA\ProccesingImageWFA.csproj", "{29829892-0331-4AA2-967E-FAC115A1377D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8CAB23-B047-4B80-AB48-318A932E39B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8CAB23-B047-4B80-AB48-318A932E39B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8CAB23-B047-4B80-AB48-318A932E39B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8CAB23-B047-4B80-AB48-318A932E39B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29829892-0331-4AA2-967E-FAC115A1377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29829892-0331-4AA2-967E-FAC115A1377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29829892-0331-4AA2-967E-FAC115A1377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29829892-0331-4AA2-967E-FAC115A1377D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9887844-C2F4-4E55-BA26-0F4B168BA684}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,41 @@
+D:\Programming\ОЦОИ\Lab1\ImageEditor\bin\Debug\ImageEditor.exe.config
+D:\Programming\ОЦОИ\Lab1\ImageEditor\bin\Debug\ImageEditor.exe
+D:\Programming\ОЦОИ\Lab1\ImageEditor\bin\Debug\ImageEditor.pdb
+D:\Programming\ОЦОИ\Lab1\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+D:\Programming\ОЦОИ\Lab1\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\Programming\ОЦОИ\Lab1\ImageEditor\obj\Debug\ImageEditor.exe
+D:\Programming\ОЦОИ\Lab1\ImageEditor\obj\Debug\ImageEditor.pdb
+D:\Programming\ОЦОИ\Lab1\ImageEditor\obj\Debug\ImageEditor.MainWindow.resources
+D:\Programming\ОЦОИ\Lab1\ImageEditor\obj\Debug\ImageEditor.ImageCutter.resources
+D:\Programming\ОЦОИ\Lab1\ImageEditor\obj\Debug\ImageEditor.FProgressBar.resources
+D:\Programming\ОЦОИ\Lab1\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\Programming\ОЦОИ\BDIP\ImageEditor\bin\Debug\ImageEditor.exe.config
+D:\Programming\ОЦОИ\BDIP\ImageEditor\bin\Debug\ImageEditor.exe
+D:\Programming\ОЦОИ\BDIP\ImageEditor\bin\Debug\ImageEditor.pdb
+D:\Programming\ОЦОИ\BDIP\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\Programming\ОЦОИ\BDIP\ImageEditor\obj\Debug\ImageEditor.FProgressBar.resources
+D:\Programming\ОЦОИ\BDIP\ImageEditor\obj\Debug\ImageEditor.MainWindow.resources
+D:\Programming\ОЦОИ\BDIP\ImageEditor\obj\Debug\ImageEditor.ImageCutter.resources
+D:\Programming\ОЦОИ\BDIP\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+D:\Programming\ОЦОИ\BDIP\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\Programming\ОЦОИ\BDIP\ImageEditor\obj\Debug\ImageEditor.exe
+D:\Programming\ОЦОИ\BDIP\ImageEditor\obj\Debug\ImageEditor.pdb
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\ImageEditor.exe.config
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\ImageEditor.exe
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\ImageEditor.pdb
+D:\Learning\Basics of Digital Image Processing\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\Learning\Basics of Digital Image Processing\ImageEditor\obj\Debug\ImageEditor.FProgressBar.resources
+D:\Learning\Basics of Digital Image Processing\ImageEditor\obj\Debug\ImageEditor.MainWindow.resources
+D:\Learning\Basics of Digital Image Processing\ImageEditor\obj\Debug\ImageEditor.ImageCutter.resources
+D:\Learning\Basics of Digital Image Processing\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+D:\Learning\Basics of Digital Image Processing\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\Learning\Basics of Digital Image Processing\ImageEditor\obj\Debug\ImageEditor.exe
+D:\Learning\Basics of Digital Image Processing\ImageEditor\obj\Debug\ImageEditor.pdb
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Learning\Basics of Digital Image Processing\ImageEditor\bin\Debug\IKVM.Runtime.dll
+D:\Learning\Basics of Digital Image Processing\ImageEditor\obj\Debug\ImageEditor.csproj.CopyComplete

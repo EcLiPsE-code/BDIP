@@ -1,0 +1,76 @@
+F:\ОЦОИ\ImageConversion\WindowsForms\bin\Debug\WindowsForms.exe.config
+F:\ОЦОИ\ImageConversion\WindowsForms\bin\Debug\WindowsForms.exe
+F:\ОЦОИ\ImageConversion\WindowsForms\bin\Debug\WindowsForms.pdb
+F:\ОЦОИ\ImageConversion\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+F:\ОЦОИ\ImageConversion\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+F:\ОЦОИ\ImageConversion\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+F:\ОЦОИ\ImageConversion\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+F:\ОЦОИ\ImageConversion\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+F:\ОЦОИ\ImageConversion\WindowsForms\obj\Debug\WindowsForms.exe
+F:\ОЦОИ\ImageConversion\WindowsForms\obj\Debug\WindowsForms.pdb
+F:\ОЦОИ\ImageConversion\WindowsForms\bin\Debug\ClassLibraryWorkImage.dll
+F:\ОЦОИ\ImageConversion\WindowsForms\bin\Debug\ClassLibraryWorkImage.pdb
+F:\ОЦОИ\ImageConversion\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+F:\ОЦОИ\ImageConversion\WindowsForms\obj\Debug\ImageEditor.ImageCutter.resources
+F:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe.config
+F:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe
+F:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.pdb
+F:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.dll
+F:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.pdb
+F:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+F:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+F:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+F:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+F:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+F:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+F:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.exe
+F:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.pdb
+E:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe
+E:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.dll
+E:\ОЦОИ\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.pdb
+E:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+E:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+E:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+E:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.exe
+E:\ОЦОИ\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.pdb
+D:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.exe
+D:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.pdb
+D:\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe
+D:\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.dll
+D:\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.pdb
+D:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+G:\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe.config
+G:\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe
+G:\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.pdb
+G:\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.dll
+G:\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.pdb
+G:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+G:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+G:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+G:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+G:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+G:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.exe
+G:\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.pdb
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.exe
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.dll
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\bin\Debug\ClassLibraryWorkImage.pdb
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.exe
+D:\Learning\Basics of Digital Image Processing\ImageConversion3\WindowsForms\obj\Debug\WindowsForms.pdb
